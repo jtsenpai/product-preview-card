@@ -38,8 +38,8 @@ Picture of the mobile display
 
 ### Links
 
-- Solution URL: [https://github.com/jtsenpai/product-preview-card.github.io.git]
-- Live Site URL: [https://product-card-toni.netlify.app/]
+- Solution URL: [https://github.com/jtsenpai/product-preview-card.github.io.git](https://github.com/jtsenpai/product-preview-card)
+- Live Site URL: [https://product-card-toni.netlify.app/](https://product-card-toni.netlify.app/)
 
 ## My process
 
